@@ -1,3 +1,9 @@
 # Co_master
-Master Repository for my project
-I will fork this repository File1 file2 file3 are the project files 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
